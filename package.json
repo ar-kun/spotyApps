@@ -1,0 +1,17 @@
+{
+ "name": "spotyapps",
+ "version": "1.0.0",
+ "description": "progate spotify",
+ "main": "app.js",
+ "scripts": {
+  "start": "nodemon -r ./app.js"
+ },
+ "author": "arkun",
+ "license": "ISC",
+ "dependencies": {
+  "ejs": "^3.1.9",
+  "express": "^4.18.2",
+  "msql": "^1.0.3",
+  "mysql": "^2.18.1"
+ }
+}
